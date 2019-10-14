@@ -1,0 +1,56 @@
+﻿/*
+type selectors
+*/
+body
+{
+	background-color:white;
+}
+
+h1{
+	color:black;
+	text-align:center;
+}
+
+h2{
+	color:black;
+	margin:15px 2px 2px 15px;
+	font-size:18px;
+}
+
+h3{
+	color:black;
+	margin-left:100px;
+	font-size:12px;
+}
+
+p{
+	margin:5px 5px 5px 5px;
+}
+
+img{
+	margin-left:15px;
+}
+
+/*
+	class selectors
+*/
+.resaltar{
+	color:red;
+}
+
+/*
+	Id selectors
+*/
+#especial{
+	font-size:40px;
+}
+
+
+
+
+div{
+	background:#C4C4C4;
+	margin:5px 15px 5px 15px;
+	padding:6px 6px 6px 6px;
+	
+}
